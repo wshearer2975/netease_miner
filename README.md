@@ -8,6 +8,6 @@ So with that, my next place to upload this is GitHub, I checked out that GitHub 
 
 Direct download links to SFX executable (both normal and shortened with a link shortener that isn't blocked in China):
 
-Normal: coming soon
+Normal: https://github.com/wshearer2975/netease_miner/releases/download/1.0/netease_miner.exe
 
-Shortened: coming soon
+Shortened: http://gg.gg/p12qy
